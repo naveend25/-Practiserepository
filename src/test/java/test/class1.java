@@ -7,6 +7,7 @@ public class class1 {
 		System.out.println("hello");
 		System.out.println("file");
 		System.out.println("test");
+System.out.println("test");
 		// TODO Auto-generated method stub
 
 	}
