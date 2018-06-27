@@ -11,6 +11,8 @@ public class class1 {
 		System.out.println("test");
 		System.out.println("test");
 System.out.println("test");
+		System.out.println("test");
+System.out.println("new branch");
 		// TODO Auto-generated method stub
 
 	}
